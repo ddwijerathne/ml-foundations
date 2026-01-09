@@ -2,7 +2,7 @@
 
 ## Overview
 
-This module is part of my **Machine Learning Foundations** preparation for **Google Summer of Code (GSoC)**.
+This module is part of my **Machine Learning Foundations**.
 
 The notebook in this folder focuses on understanding **NumPy arrays**, their **data types (dtype)**, and why dtype selection is important for performance and memory efficiency in machine learning workflows.
 
