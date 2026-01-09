@@ -51,5 +51,5 @@ After completing this notebook, I am able to:
 ## Author
 
 **Dhanuja Wijerathne**
-*Undergraduate, Computer Science & Engineering
-*University of Moratuwa
+Undergraduate, Computer Science & Engineering
+University of Moratuwa
