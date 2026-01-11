@@ -49,6 +49,14 @@ This notebook covers:
 
 ---
 
+### 📘 `05_aggregation_and_statistics.ipynb`
+- Common aggregation functions (sum, min, max)
+- Statistical measures (mean, median, standard deviation)
+- Axis-based aggregation for ML datasets
+- Handling missing values using NaN-safe functions
+
+---
+
 ## Learning Outcomes
 
 After completing this module, I am able to:
